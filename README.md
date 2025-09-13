@@ -174,9 +174,6 @@ The strength analysis uses a comprehensive scoring system:
 - Python 3.6 or higher
 - No external dependencies (uses only standard library)
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
